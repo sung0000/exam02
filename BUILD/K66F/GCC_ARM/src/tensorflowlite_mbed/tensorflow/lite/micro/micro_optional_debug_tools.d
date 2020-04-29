@@ -1,0 +1,20 @@
+BUILD/K66F/GCC_ARM/src/tensorflowlite_mbed/tensorflow/lite/micro/micro_optional_debug_tools.o: \
+ src/tensorflowlite_mbed/tensorflow/lite/micro/micro_optional_debug_tools.cc \
+ BUILD/K66F/GCC_ARM/mbed_config.h \
+ src/tensorflowlite_mbed/tensorflow/lite/micro/micro_optional_debug_tools.h \
+ src/tensorflowlite_mbed/tensorflow/lite/micro/micro_interpreter.h \
+ src/tensorflowlite_mbed/tensorflow/lite/c/common.h \
+ src/tensorflowlite_mbed/tensorflow/lite/core/api/error_reporter.h \
+ src/tensorflowlite_mbed/tensorflow/lite/core/api/op_resolver.h \
+ src/tensorflowlite_mbed/tensorflow/lite/schema/schema_generated.h \
+ src/tensorflowlite_mbed/third_party/flatbuffers/include/flatbuffers/flatbuffers.h \
+ src/tensorflowlite_mbed/third_party/flatbuffers/include/flatbuffers/base.h \
+ src/tensorflowlite_mbed/third_party/flatbuffers/include/flatbuffers/stl_emulation.h \
+ src/tensorflowlite_mbed/tensorflow/lite/kernels/internal/tensor_ctypes.h \
+ src/tensorflowlite_mbed/tensorflow/lite/kernels/internal/types.h \
+ src/tensorflowlite_mbed/tensorflow/lite/kernels/internal/compatibility.h \
+ src/tensorflowlite_mbed/tensorflow/lite/kernels/op_macros.h \
+ src/tensorflowlite_mbed/tensorflow/lite/micro/micro_allocator.h \
+ src/tensorflowlite_mbed/tensorflow/lite/core/api/flatbuffer_conversions.h \
+ src/tensorflowlite_mbed/tensorflow/lite/micro/simple_memory_allocator.h \
+ src/tensorflowlite_mbed/tensorflow/lite/type_to_tflitetype.h
